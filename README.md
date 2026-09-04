@@ -22,9 +22,6 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" alt="Profile views"/>
-
-
 
 </div>
 
