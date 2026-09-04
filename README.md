@@ -204,16 +204,6 @@ SYSTEM MESSAGE:
 
 ---
 
-# 📈 `ACTIVITY // NEURAL NETWORK`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FFFFFF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 # 🌐 `NETWORK // SOCIAL LINKS`
 
 <div align="center">
