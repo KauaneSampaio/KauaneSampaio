@@ -92,19 +92,31 @@
 <h3 align="center">🧠 Número Secreto</h3>
 
 <p align="center">
-Projeto desenvolvido para praticar <b>JavaScript e lógica de programação</b>.
+
+<b>Jogo desenvolvido para praticar lógica de programação e JavaScript.</b>
+
 </p>
 
-**Features**
+<div align="center">
 
-* 🎯 Número secreto
-* 🔄 Estruturas de repetição
-* 💬 Interação com usuário
-* 🧠 Condicionais
+<!-- COLOQUE AQUI O PRINT DO PROJETO -->
 
-**Stack**
+<img src="https://placehold.co/600x350/0D1117/00F5FF?text=NUMERO+SECRETO" width="100%" alt="Número Secreto"/>
+
+</div>
+
+<br>
+
+**Tecnologias**
 
 `JavaScript` `HTML` `CSS`
+
+**Conceitos**
+
+* 🎯 Condicionais
+* 🔄 Loops
+* 💬 Prompt e Alert
+* 🧠 Lógica de programação
 
 </td>
 
@@ -113,67 +125,32 @@ Projeto desenvolvido para praticar <b>JavaScript e lógica de programação</b>.
 <h3 align="center">⏱️ Fokus</h3>
 
 <p align="center">
-Aplicação inspirada na técnica <b>Pomodoro</b>, criada durante os estudos de desenvolvimento web.
+
+<b>Aplicação de produtividade inspirada na técnica Pomodoro.</b>
+
 </p>
+
+<div align="center">
+
+<!-- COLOQUE AQUI O PRINT DO PROJETO -->
+
+<img src="https://placehold.co/600x350/0D1117/00F5FF?text=FOKUS" width="100%" alt="Fokus"/>
+
+</div>
+
+<br>
+
+**Tecnologias**
+
+`JavaScript` `HTML` `CSS`
 
 **Features**
 
 * ⏳ Temporizador
-* 🎯 Modos de foco
+* 🎯 Modo foco
+* ☕ Pausa curta
+* 🌙 Pausa longa
 * 🎨 Interface interativa
-* 🔊 Interações com JavaScript
-
-**Stack**
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">💖 Minha Galeria</h3>
-
-<p align="center">
-Projeto de galeria de imagens com uma proposta visual interativa e personalizada.
-</p>
-
-**Features**
-
-* 🖼️ Galeria de imagens
-* 💗 Interface personalizada
-* ✨ Animações
-* 💾 Armazenamento local
-
-**Stack**
-
-`JavaScript` `HTML` `CSS`
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🚧 Próximo Projeto</h3>
-
-<p align="center">
-Um novo projeto está sendo desenvolvido...
-</p>
-
-```text
-STATUS
-
-RESEARCHING  ███████░░░
-BUILDING     █████░░░░░
-TESTING      ██░░░░░░░░
-DEPLOY       ░░░░░░░░░░
-```
-
-**Objetivo**
-
-Continuar evoluindo minhas habilidades e criar projetos cada vez mais completos.
 
 </td>
 
@@ -201,6 +178,7 @@ Continuar evoluindo minhas habilidades e criar projetos cada vez mais completos.
 STATUS: █████████████████░░░ 85%
 
 SYSTEM MESSAGE:
+
 "Every project is another level unlocked."
 ```
 
@@ -311,19 +289,3 @@ SYSTEM MESSAGE:
 **⚡ Code. Create. Evolve.**
 
 </div>
-
-
-<!--
-**KauaneSampaio/KauaneSampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
