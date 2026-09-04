@@ -214,26 +214,6 @@ SYSTEM MESSAGE:
 
 ---
 
-# 🏆 `ACHIEVEMENTS // TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION // SNAKE PROTOCOL`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
 # 🌐 `NETWORK // SOCIAL LINKS`
 
 <div align="center">
