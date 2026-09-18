@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0a24,35:8c315c,70:e96a9f,100:ffc4db&height=190&section=header&text=FERREIRA%20♡%20DEV&fontSize=43&fontColor=fff7fb&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0a24,35:8c315c,70:e96a9f,100:ffc4db&height=190&section=header&text=KAUANE%20%7C%20DESIGN%20%26%20FRONT-END&fontSize=38&fontColor=fff7fb&animation=fadeIn&fontAlignY=35"/>
 
 ### `♡ criando, aprendendo e transformando ideias em código`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E96A9F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ferreira+%E2%99%A1;Front-End+Developer+in+Training;JavaScript+%7C+HTML+%7C+CSS;Creating+interfaces+with+personality;Learning+one+project+at+a+time+%E2%9C%A8" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E96A9F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Kauane+%E2%99%A1;Front-End+Developer+in+Training;JavaScript+%7C+HTML+%7C+CSS;Creating+interfaces+with+personality;Learning+one+project+at+a+time+%E2%9C%A8" alt="Typing Animation"/>
 
 <br>
 
@@ -21,10 +21,10 @@
 │                                              │
 │              ♡ DEVELOPER PROFILE             │
 │                                              │
-│  NAME       :: Ferreira                      │
+│  NAME       :: Kauane                        │
 │  ROLE       :: Front-End Developer           │
 │  FOCUS      :: Web Development               │
-│  STATUS     :: Learning + Creating            │
+│  STATUS     :: Learning + Creating           │
 │                                              │
 │  TECH                                        │
 │  ├── JavaScript                              │
@@ -105,7 +105,7 @@ Projeto criado para praticar meus primeiros conceitos de lógica de programaçã
 
 <div align="center">
 
-<img src="https://placehold.co/600x350/3B0A24/FFC4DB?text=NÚMERO+SECRETO+♡" width="100%" alt="Projeto Número Secreto"/>
+<img src="https://placehold.co/600x350/3B0A24/FFC4DB?text=NUMERO+SECRETO+♡" width="100%" alt="Projeto Número Secreto"/>
 
 </div>
 
@@ -127,7 +127,7 @@ Projeto criado para praticar meus primeiros conceitos de lógica de programaçã
 
 <td width="50%" valign="top">
 
-<h3 align="center">🍅 Fokus</h3>
+<h3 align="center">⏱️ Fokus</h3>
 
 <p align="center">
 Aplicação de produtividade inspirada na técnica Pomodoro, com diferentes modos de concentração e descanso.
@@ -165,7 +165,7 @@ Aplicação de produtividade inspirada na técnica Pomodoro, com diferentes modo
 # 💗 `CURRENT JOURNEY`
 
 ```bash
-┌──[ ferreira@pink-dev ]
+┌──[ kauane@pink-dev ]
 │
 └─$ ./my_journey.sh
 
@@ -179,7 +179,6 @@ Aplicação de produtividade inspirada na técnica Pomodoro, com diferentes modo
 [♡] Criando interfaces mais completas
 [♡] Desenvolvendo novos projetos
 [♡] Evoluindo como Front-End Developer
-
 
 CURRENT MOOD:
 
@@ -203,7 +202,7 @@ learning... creating... improving... ♡
 <br>
 
 ```javascript
-const ferreira = {
+const kauane = {
   learning: ["JavaScript", "HTML", "CSS"],
   interestedIn: ["Front-End", "UI", "Creative Development"],
   currentlyBuilding: "my portfolio",
@@ -241,11 +240,11 @@ const ferreira = {
 ```text
 ╭───────────────────────────────────────╮
 │                                       │
-│     FRONT-END        ● ACTIVE          │
-│     JAVASCRIPT       ● LEARNING        │
-│     HTML / CSS       ● ACTIVE          │
-│     CREATIVITY       ● ALWAYS ON       │
-│     NEW PROJECTS     ● LOADING...      │
+│     FRONT-END        ● ACTIVE         │
+│     JAVASCRIPT       ● LEARNING       │
+│     HTML / CSS       ● ACTIVE         │
+│     CREATIVITY       ● ALWAYS ON      │
+│     NEW PROJECTS     ● LOADING...     │
 │                                       │
 ╰───────────────────────────────────────╯
 ```
