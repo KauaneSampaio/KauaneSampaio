@@ -52,10 +52,6 @@ Projeto desenvolvido para praticar lógica de programação utilizando JavaScrip
 </p>
 
 <p align="center">
-<img src="./img/numero-secreto.png" width="95%" alt="Projeto Número Secreto">
-</p>
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=d985a8">
 
@@ -75,10 +71,6 @@ Projeto criado durante meus estudos para praticar conceitos como variáveis, con
 
 <p align="center">
 Aplicação de produtividade baseada na técnica Pomodoro.
-</p>
-
-<p align="center">
-<img src="./img/fokus.png" width="95%" alt="Projeto Fokus">
 </p>
 
 <p align="center">
