@@ -8,21 +8,17 @@
 
 </div>
 
----
+sobre mim
 
-## sobre mim
+Oi, meu nome é Kauane.
 
-Oi, meu nome é **Kauane**.
+Tenho formação em Informática para Internet e atualmente estou focada em desenvolvimento Front-end.
 
-Tenho formação em **Informática para Internet** e atualmente estou focada em desenvolvimento Front-end.
-
-Estou aprimorando meus conhecimentos em **HTML, CSS, JavaScript e lógica de programação**, criando projetos para praticar e desenvolver minhas habilidades.
+Estou aprimorando meus conhecimentos em HTML, CSS, JavaScript e lógica de programação, criando projetos para praticar e desenvolver minhas habilidades.
 
 Também tenho interesse na parte visual do desenvolvimento, principalmente em organização de interfaces, cores, design e experiência do usuário.
 
----
-
-## tecnologias
+tecnologias
 
 <div align="center">
 
@@ -42,9 +38,7 @@ Também tenho interesse na parte visual do desenvolvimento, principalmente em or
 
 </div>
 
----
-
-## projetos
+projetos
 
 <table>
 <tr>
@@ -104,12 +98,74 @@ Projeto desenvolvido para praticar manipulação do DOM, temporizadores e intera
 </tr>
 </table>
 
----
+atualmente
 
-## atualmente
-
-```text
 ESTUDANDO      JavaScript
 PRATICANDO     Front-End
 DESENVOLVENDO  Projetos
 EXPLORANDO     UI Design
+
+conhecimentos
+
+const kauane = {
+  area: "Front-End Development",
+
+  tecnologias: [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+
+  ferramentas: [
+    "VS Code",
+    "Git",
+    "GitHub"
+  ],
+
+  interesses: [
+    "Front-End",
+    "UI Design",
+    "Web Development"
+  ],
+
+  atualmente: "Aprendendo e desenvolvendo novos projetos"
+};
+
+objetivos
+
+[OK] Fundamentos de programação
+[OK] HTML e CSS
+[OK] Primeiros projetos com JavaScript
+[OK] Git e GitHub
+
+[>] Melhorar lógica de programação
+[>] Aprofundar JavaScript
+[>] Criar interfaces melhores
+[>] Desenvolver projetos mais completos
+[>] Evoluir no desenvolvimento Front-End
+
+contato
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=d985a8">
+</a>
+
+<a href="LINK_DO_SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-18181b?style=for-the-badge&logo=linkedin&logoColor=d985a8">
+</a>
+
+<a href="https://instagram.com/kauaneverass">
+<img src="https://img.shields.io/badge/Instagram-18181b?style=for-the-badge&logo=instagram&logoColor=d985a8">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d985a8,45:7d405a,75:2b1b23,100:111318&height=120&section=footer" width="100%"/>
+
+</div>
