@@ -1,38 +1,48 @@
 <div align="center">
 
-# Kauane 🌷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7bfd3,50:ee93b7,100:d96c9d&height=190&section=header&text=Kauane%20%E2%9C%A8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Front-end | HTML • CSS • JavaScript
+### front-end • html • css • javascript
+
+✨ ⋆｡‧˚ʚ♡ɞ˚‧｡⋆ ✨
 
 <p>
-Gosto de criar interfaces simples, bonitas e funcionais.
-<br>
-Atualmente estou estudando desenvolvimento web e construindo projetos para praticar o que aprendo.
+Gosto de criar interfaces bonitas, simples e com personalidade.
 </p>
 
 </div>
 
 ---
 
-## Sobre mim
+## 🌷 Sobre mim
 
-Oi! Meu nome é **Kauane**.
+Oi! Eu sou a **Kauane** 💗
 
 Tenho formação em **Informática para Internet** e atualmente estou focada em desenvolvimento Front-end.
 
-Estou aprimorando meus conhecimentos em:
+Estou aprendendo cada vez mais sobre programação, lógica e criação de interfaces.
 
-* HTML
-* CSS
-* JavaScript
-* Lógica de programação
-* Git e GitHub
+Gosto bastante da parte visual dos projetos, principalmente de pensar em:
 
-Gosto principalmente da parte visual dos projetos, pensando em cores, organização e experiência de quem vai usar a página.
+* cores
+* organização
+* estilo
+* experiência do usuário
+* detalhes que deixam uma página mais bonita
+
+✨ Meu objetivo é continuar evoluindo e transformar minhas ideias em projetos reais.
 
 ---
 
-## Tecnologias
+<div align="center">
+
+✦ ⋆ ˚｡⋆୨୧˚ ✦ ˚୨୧⋆｡˚ ⋆ ✦
+
+</div>
+
+---
+
+## 🎀 Tecnologias
 
 <div align="center">
 
@@ -40,15 +50,35 @@ Gosto principalmente da parte visual dos projetos, pensando em cores, organizaç
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-f3a6c2?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-e889b0?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-dc76a4?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+</div>
+
 ---
 
-## Projetos
+<div align="center">
 
-### Número Secreto
+✨ ♡ ✨ ♡ ✨
 
-Projeto desenvolvido durante meus estudos de lógica de programação.
+</div>
 
-Nele pratiquei:
+---
+
+## 🌸 Meus projetos
+
+### 🎮 Número Secreto
+
+Projeto desenvolvido para praticar lógica de programação com JavaScript.
+
+Nesse projeto pratiquei:
 
 * variáveis
 * condicionais
@@ -56,64 +86,128 @@ Nele pratiquei:
 * funções
 * interação com o usuário
 
-`HTML` `CSS` `JavaScript`
+<div align="center">
 
-<!--
-Para colocar a imagem:
+<img src="./img/numero-secreto.png" width="700" alt="Projeto Número Secreto">
 
-<img src="./img/numero-secreto.png" width="700">
--->
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-f3a6c2?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-e889b0?style=flat-square&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-dc76a4?style=flat-square&logo=javascript&logoColor=white">
+
+</div>
 
 ---
 
-### Fokus
+### ⏱️ Fokus
 
-Aplicação inspirada na técnica Pomodoro para organizar períodos de foco e descanso.
+Aplicação inspirada na técnica Pomodoro para ajudar na organização dos períodos de foco e descanso.
 
 O projeto possui:
 
-* temporizador
 * modo foco
 * pausa curta
 * pausa longa
+* temporizador
 * música
-* alterações na interface
+* alteração dinâmica da interface
 
-`HTML` `CSS` `JavaScript`
+<div align="center">
 
-<!--
-Para colocar a imagem:
+<img src="./img/fokus.png" width="700" alt="Projeto Fokus">
 
-<img src="./img/fokus.png" width="700">
--->
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-f3a6c2?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS-e889b0?style=flat-square&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-dc76a4?style=flat-square&logo=javascript&logoColor=white">
+
+</div>
 
 ---
 
-## Atualmente estudando
+<div align="center">
+
+⋆ ˚｡⋆୨୧˚ 🌷 ˚୨୧⋆｡˚ ⋆
+
+</div>
+
+---
+
+## 💗 Atualmente estudando
 
 ```text
-JavaScript     ███████░░░
-HTML           ████████░░
-CSS            ████████░░
-Git / GitHub   ██████░░░░
+HTML            ████████░░
+CSS             ████████░░
+JavaScript      ███████░░░
+Git / GitHub    ██████░░░░
+```
+
+Quero continuar melhorando principalmente em:
+
+* JavaScript
+* lógica de programação
+* desenvolvimento Front-end
+* criação de interfaces
+* responsividade
+
+---
+
+## ✨ Um pouco da minha jornada
+
+```text
+comecei aprendendo lógica
+        ↓
+HTML + CSS
+        ↓
+JavaScript
+        ↓
+primeiros projetos
+        ↓
+Git + GitHub
+        ↓
+portfólio
+        ↓
+continuo aprendendo... 🌷
 ```
 
 ---
 
-## Contato
+<div align="center">
+
+✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+
+</div>
+
+---
+
+## 📬 Onde me encontrar
 
 <div align="center">
 
 <a href="https://github.com/SEU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-d85b8f?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-d86c9f?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="LINK-DO-SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-d85b8f?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-e889b0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/kauaneverass">
-<img src="https://img.shields.io/badge/Instagram-d85b8f?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-f3a6c2?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -122,6 +216,10 @@ Git / GitHub   ██████░░░░
 
 <div align="center">
 
-🌷 Obrigada por visitar meu perfil.
+✨ ⋆｡‧˚ʚ♡ɞ˚‧｡⋆ ✨
+
+### obrigada por visitar meu perfil 💗
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d96c9d,50:ee93b7,100:f7bfd3&height=120&section=footer"/>
 
 </div>
