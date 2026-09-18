@@ -1,10 +1,10 @@
 <div align="center">
 
-# KAUANE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111318,45:2b1b23,75:7d405a,100:d985a8&height=180&section=header&text=KAUANE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Front-end Developer
+<h3>Design & Front-End</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=D98BA7&center=true&vCenter=true&width=600&lines=HTML+%2F+CSS+%2F+JavaScript;Design+and+Front-end;Building+simple+and+creative+interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=D985A8&center=true&vCenter=true&width=700&lines=Front-End+Developer+in+Training;HTML+%7C+CSS+%7C+JavaScript;Design+%2B+Development;Creating+simple+and+interactive+interfaces" alt="Typing Animation"/>
 
 </div>
 
@@ -12,11 +12,13 @@
 
 ## sobre mim
 
-Sou Kauane, desenvolvedora Front-end em formação.
+Oi, meu nome é **Kauane**.
 
-Tenho interesse em desenvolvimento web e criação de interfaces, buscando unir programação e design nos projetos que desenvolvo.
+Tenho formação em **Informática para Internet** e atualmente estou focada em desenvolvimento Front-end.
 
-Atualmente estudo JavaScript, HTML e CSS e estou construindo projetos para aprimorar minha lógica e meu conhecimento em Front-end.
+Estou aprimorando meus conhecimentos em **HTML, CSS, JavaScript e lógica de programação**, criando projetos para praticar e desenvolver minhas habilidades.
+
+Também tenho interesse na parte visual do desenvolvimento, principalmente em organização de interfaces, cores, design e experiência do usuário.
 
 ---
 
@@ -28,34 +30,86 @@ Atualmente estudo JavaScript, HTML e CSS e estou construindo projetos para aprim
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-18181b?style=for-the-badge&logo=html5&logoColor=d985a8">
+
+<img src="https://img.shields.io/badge/CSS3-18181b?style=for-the-badge&logo=css3&logoColor=d985a8">
+
+<img src="https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=d985a8">
+
+</div>
+
 ---
 
 ## projetos
 
-### Número Secreto
+<table>
+<tr>
 
-Projeto desenvolvido para praticar lógica de programação com JavaScript.
+<td width="50%" valign="top">
 
-`HTML` `CSS` `JavaScript`
+<h3 align="center">Número Secreto</h3>
 
-<img src="./img/numero-secreto.png" width="100%">
+<p align="center">
+Projeto desenvolvido para praticar lógica de programação utilizando JavaScript.
+</p>
 
----
+<p align="center">
+<img src="./img/numero-secreto.png" width="95%" alt="Projeto Número Secreto">
+</p>
 
-### Fokus
+<p align="center">
 
-Aplicação inspirada na técnica Pomodoro, desenvolvida para praticar manipulação do DOM e interações com JavaScript.
+<img src="https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=d985a8">
 
-`HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css3&logoColor=d985a8">
 
-<img src="./img/fokus.png" width="100%">
+<img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=d985a8">
+
+</p>
+
+Projeto criado durante meus estudos para praticar conceitos como variáveis, condicionais, loops e interação com o usuário.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Fokus</h3>
+
+<p align="center">
+Aplicação de produtividade baseada na técnica Pomodoro.
+</p>
+
+<p align="center">
+<img src="./img/fokus.png" width="95%" alt="Projeto Fokus">
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=d985a8">
+
+<img src="https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css3&logoColor=d985a8">
+
+<img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=d985a8">
+
+</p>
+
+Projeto desenvolvido para praticar manipulação do DOM, temporizadores e interações com JavaScript.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## atualmente
 
-```txt
-estudando      JavaScript
-praticando     Front-end
-criando        novos projetos
-explorando     UI Design
+```text
+ESTUDANDO      JavaScript
+PRATICANDO     Front-End
+DESENVOLVENDO  Projetos
+EXPLORANDO     UI Design
